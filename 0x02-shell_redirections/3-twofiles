@@ -1,2 +1,2 @@
 #!/bin/bash
-$FILE1 $FILE2
+less /etc/passwd /etc/hosts
